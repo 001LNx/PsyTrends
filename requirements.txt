@@ -1,0 +1,16 @@
+tweepy
+praw
+requests
+pandas
+scikit-learn
+transformers
+statsmodels
+schedule
+matplotlib
+seaborn
+flask
+python-dotenv
+numpy
+torch
+torchvision
+torchaudio

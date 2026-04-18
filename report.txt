@@ -1,0 +1,198 @@
+
+================================================================================
+PsyTrends Report - 2026-04-18 17:12:42
+================================================================================
+
+Total keywords analyzed: 50
+Countries included: 10
+
+TOP RISING TRENDS:
+--------------------------------------------------------------------------------
+  innovation (UK)
+    Current Volume: 43,908
+    Forecasted Volume: 74,389
+    Impact Score: 30480.86
+    Sentiment: 1.00
+
+  innovation (Japan)
+    Current Volume: 51,454
+    Forecasted Volume: 81,224
+    Impact Score: 29769.89
+    Sentiment: 1.00
+
+  climate (Russia)
+    Current Volume: 22,977
+    Forecasted Volume: 79,160
+    Impact Score: 28091.71
+    Sentiment: 0.50
+
+  innovation (Russia)
+    Current Volume: 52,977
+    Forecasted Volume: 76,088
+    Impact Score: 23111.50
+    Sentiment: 1.00
+
+  technology (Canada)
+    Current Volume: 91,331
+    Forecasted Volume: 136,973
+    Impact Score: 22820.80
+    Sentiment: 0.50
+
+  ai (USA)
+    Current Volume: 41,486
+    Forecasted Volume: 83,846
+    Impact Score: 21180.11
+    Sentiment: 0.50
+
+  ai (UK)
+    Current Volume: 23,908
+    Forecasted Volume: 63,069
+    Impact Score: 19580.34
+    Sentiment: 0.50
+
+  ai (Japan)
+    Current Volume: 31,454
+    Forecasted Volume: 70,099
+    Impact Score: 19322.34
+    Sentiment: 0.50
+
+  climate (Japan)
+    Current Volume: 21,454
+    Forecasted Volume: 58,326
+    Impact Score: 18436.19
+    Sentiment: 0.50
+
+  climate (Canada)
+    Current Volume: 41,331
+    Forecasted Volume: 76,206
+    Impact Score: 17437.34
+    Sentiment: 0.50
+
+
+TOP FALLING TRENDS:
+--------------------------------------------------------------------------------
+  innovation (China)
+    Current Volume: 106,711
+    Forecasted Volume: 78,040
+    Impact Score: -28670.77
+    Sentiment: 1.00
+
+  politics (Mexico)
+    Current Volume: 113,924
+    Forecasted Volume: 90,305
+    Impact Score: -11809.27
+    Sentiment: 0.50
+
+  technology (Russia)
+    Current Volume: 72,977
+    Forecasted Volume: 50,467
+    Impact Score: -11254.81
+    Sentiment: 0.50
+
+  technology (Germany)
+    Current Volume: 138,280
+    Forecasted Volume: 126,849
+    Impact Score: -5715.61
+    Sentiment: 0.50
+
+  politics (Japan)
+    Current Volume: 41,454
+    Forecasted Volume: 30,423
+    Impact Score: -5515.40
+    Sentiment: 0.50
+
+  ai (Mexico)
+    Current Volume: 103,924
+    Forecasted Volume: 95,929
+    Impact Score: -3997.52
+    Sentiment: 0.50
+
+  climate (Germany)
+    Current Volume: 88,280
+    Forecasted Volume: 81,301
+    Impact Score: -3489.57
+    Sentiment: 0.50
+
+  technology (China)
+    Current Volume: 126,711
+    Forecasted Volume: 120,051
+    Impact Score: -3329.83
+    Sentiment: 0.50
+
+  technology (USA)
+    Current Volume: 81,486
+    Forecasted Volume: 76,409
+    Impact Score: -2538.54
+    Sentiment: 0.50
+
+  ai (Germany)
+    Current Volume: 98,280
+    Forecasted Volume: 94,380
+    Impact Score: -1949.78
+    Sentiment: 0.50
+
+
+COUNTRY SUMMARIES:
+--------------------------------------------------------------------------------
+
+Canada:
+  Total Trends: 5
+  Rising Trends: 5
+  Falling Trends: 0
+  Average Impact: 11739.64
+
+China:
+  Total Trends: 5
+  Rising Trends: 1
+  Falling Trends: 4
+  Average Impact: -5140.93
+
+France:
+  Total Trends: 5
+  Rising Trends: 4
+  Falling Trends: 1
+  Average Impact: 2958.55
+
+Germany:
+  Total Trends: 5
+  Rising Trends: 2
+  Falling Trends: 3
+  Average Impact: -1177.36
+
+Italy:
+  Total Trends: 5
+  Rising Trends: 5
+  Falling Trends: 0
+  Average Impact: 3711.77
+
+Japan:
+  Total Trends: 5
+  Rising Trends: 3
+  Falling Trends: 2
+  Average Impact: 12353.39
+
+Mexico:
+  Total Trends: 5
+  Rising Trends: 3
+  Falling Trends: 2
+  Average Impact: -995.02
+
+Russia:
+  Total Trends: 5
+  Rising Trends: 4
+  Falling Trends: 1
+  Average Impact: 11483.97
+
+UK:
+  Total Trends: 5
+  Rising Trends: 5
+  Falling Trends: 0
+  Average Impact: 14995.43
+
+USA:
+  Total Trends: 5
+  Rising Trends: 4
+  Falling Trends: 1
+  Average Impact: 8707.46
+
+================================================================================

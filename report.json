@@ -1,0 +1,502 @@
+[
+  {
+    "country": "Canada",
+    "keyword": "ai",
+    "current_volume": 51331.0,
+    "forecasted_volume": 61862.86824846847,
+    "impact_projection": 5265.934124234234,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Canada",
+    "keyword": "climate",
+    "current_volume": 41331.0,
+    "forecasted_volume": 76205.68964435474,
+    "impact_projection": 17437.344822177372,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Canada",
+    "keyword": "innovation",
+    "current_volume": 71331.0,
+    "forecasted_volume": 73820.72923939597,
+    "impact_projection": 2489.729239395965,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "Canada",
+    "keyword": "politics",
+    "current_volume": 61331.0,
+    "forecasted_volume": 82699.7401830418,
+    "impact_projection": 10684.370091520897,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Canada",
+    "keyword": "technology",
+    "current_volume": 91331.0,
+    "forecasted_volume": 136972.59830046995,
+    "impact_projection": 22820.799150234976,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "China",
+    "keyword": "ai",
+    "current_volume": 86711.0,
+    "forecasted_volume": 83593.37588577301,
+    "impact_projection": -1558.8120571134932,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "China",
+    "keyword": "climate",
+    "current_volume": 76711.0,
+    "forecasted_volume": 76657.50303029429,
+    "impact_projection": -26.748484852854745,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "China",
+    "keyword": "innovation",
+    "current_volume": 106711.0,
+    "forecasted_volume": 78040.22768711863,
+    "impact_projection": -28670.772312881367,
+    "trend_direction": "falling",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "China",
+    "keyword": "politics",
+    "current_volume": 96711.0,
+    "forecasted_volume": 112474.00616374466,
+    "impact_projection": 7881.503081872332,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "China",
+    "keyword": "technology",
+    "current_volume": 126711.0,
+    "forecasted_volume": 120051.33442696338,
+    "impact_projection": -3329.832786518309,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "France",
+    "keyword": "ai",
+    "current_volume": 77149.0,
+    "forecasted_volume": 76437.29149307158,
+    "impact_projection": -355.85425346421107,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "France",
+    "keyword": "climate",
+    "current_volume": 67149.0,
+    "forecasted_volume": 80232.963114382,
+    "impact_projection": 6541.981557191,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "France",
+    "keyword": "innovation",
+    "current_volume": 97149.0,
+    "forecasted_volume": 98464.15350949716,
+    "impact_projection": 1315.1535094971623,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "France",
+    "keyword": "politics",
+    "current_volume": 87149.0,
+    "forecasted_volume": 97475.22734660153,
+    "impact_projection": 5163.113673300766,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "France",
+    "keyword": "technology",
+    "current_volume": 117149.0,
+    "forecasted_volume": 121405.66491054617,
+    "impact_projection": 2128.3324552730846,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Germany",
+    "keyword": "ai",
+    "current_volume": 98280.0,
+    "forecasted_volume": 94380.43684545244,
+    "impact_projection": -1949.7815772737813,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Germany",
+    "keyword": "climate",
+    "current_volume": 88280.0,
+    "forecasted_volume": 81300.85515924895,
+    "impact_projection": -3489.5724203755235,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Germany",
+    "keyword": "innovation",
+    "current_volume": 118280.0,
+    "forecasted_volume": 123463.32099914974,
+    "impact_projection": 5183.320999149742,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "Germany",
+    "keyword": "politics",
+    "current_volume": 108280.0,
+    "forecasted_volume": 108449.67000829795,
+    "impact_projection": 84.83500414897571,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Germany",
+    "keyword": "technology",
+    "current_volume": 138280.0,
+    "forecasted_volume": 126848.77466989095,
+    "impact_projection": -5715.612665054527,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Italy",
+    "keyword": "ai",
+    "current_volume": 88501.0,
+    "forecasted_volume": 97282.64174964801,
+    "impact_projection": 4390.820874824007,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Italy",
+    "keyword": "climate",
+    "current_volume": 78501.0,
+    "forecasted_volume": 84174.98386537997,
+    "impact_projection": 2836.9919326899835,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Italy",
+    "keyword": "innovation",
+    "current_volume": 108501.0,
+    "forecasted_volume": 111369.30513414803,
+    "impact_projection": 2868.3051341480314,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "Italy",
+    "keyword": "politics",
+    "current_volume": 98501.0,
+    "forecasted_volume": 111281.95461515902,
+    "impact_projection": 6390.477307579509,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Italy",
+    "keyword": "technology",
+    "current_volume": 128501.0,
+    "forecasted_volume": 132645.49506814778,
+    "impact_projection": 2072.2475340738893,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Japan",
+    "keyword": "ai",
+    "current_volume": 31454.0,
+    "forecasted_volume": 70098.68630807751,
+    "impact_projection": 19322.343154038754,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Japan",
+    "keyword": "climate",
+    "current_volume": 21454.0,
+    "forecasted_volume": 58326.387085153685,
+    "impact_projection": 18436.193542576842,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Japan",
+    "keyword": "innovation",
+    "current_volume": 51454.0,
+    "forecasted_volume": 81223.89215374278,
+    "impact_projection": 29769.89215374278,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "Japan",
+    "keyword": "politics",
+    "current_volume": 41454.0,
+    "forecasted_volume": 30423.19437086565,
+    "impact_projection": -5515.402814567175,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Japan",
+    "keyword": "technology",
+    "current_volume": 71454.0,
+    "forecasted_volume": 70961.84751541674,
+    "impact_projection": -246.07624229163048,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Mexico",
+    "keyword": "ai",
+    "current_volume": 103924.0,
+    "forecasted_volume": 95928.96209537813,
+    "impact_projection": -3997.5189523109366,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Mexico",
+    "keyword": "climate",
+    "current_volume": 93924.0,
+    "forecasted_volume": 98130.65807304451,
+    "impact_projection": 2103.3290365222565,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Mexico",
+    "keyword": "innovation",
+    "current_volume": 123924.0,
+    "forecasted_volume": 131993.26476322842,
+    "impact_projection": 8069.264763228421,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "Mexico",
+    "keyword": "politics",
+    "current_volume": 113924.0,
+    "forecasted_volume": 90305.46745312784,
+    "impact_projection": -11809.266273436078,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Mexico",
+    "keyword": "technology",
+    "current_volume": 143924.0,
+    "forecasted_volume": 145242.18440677517,
+    "impact_projection": 659.0922033875831,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Russia",
+    "keyword": "ai",
+    "current_volume": 32977.0,
+    "forecasted_volume": 59625.77598939205,
+    "impact_projection": 13324.387994696026,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Russia",
+    "keyword": "climate",
+    "current_volume": 22977.0,
+    "forecasted_volume": 79160.42408915801,
+    "impact_projection": 28091.712044579006,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Russia",
+    "keyword": "innovation",
+    "current_volume": 52977.0,
+    "forecasted_volume": 76088.4950775849,
+    "impact_projection": 23111.4950775849,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "Russia",
+    "keyword": "politics",
+    "current_volume": 42977.0,
+    "forecasted_volume": 51271.095049671174,
+    "impact_projection": 4147.047524835587,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "Russia",
+    "keyword": "technology",
+    "current_volume": 72977.0,
+    "forecasted_volume": 50467.38623195852,
+    "impact_projection": -11254.806884020742,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "UK",
+    "keyword": "ai",
+    "current_volume": 23908.0,
+    "forecasted_volume": 63068.678460124334,
+    "impact_projection": 19580.339230062167,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "UK",
+    "keyword": "climate",
+    "current_volume": 13908.0,
+    "forecasted_volume": 24074.01173421942,
+    "impact_projection": 5083.00586710971,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "UK",
+    "keyword": "innovation",
+    "current_volume": 43908.0,
+    "forecasted_volume": 74388.8572736228,
+    "impact_projection": 30480.857273622794,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "UK",
+    "keyword": "politics",
+    "current_volume": 33908.0,
+    "forecasted_volume": 63251.32780972092,
+    "impact_projection": 14671.66390486046,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "UK",
+    "keyword": "technology",
+    "current_volume": 63908.0,
+    "forecasted_volume": 74230.57669257365,
+    "impact_projection": 5161.288346286827,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "USA",
+    "keyword": "ai",
+    "current_volume": 41486.0,
+    "forecasted_volume": 83846.21017945319,
+    "impact_projection": 21180.105089726596,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "USA",
+    "keyword": "climate",
+    "current_volume": 31486.0,
+    "forecasted_volume": 62689.5693817454,
+    "impact_projection": 15601.7846908727,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "USA",
+    "keyword": "innovation",
+    "current_volume": 61486.0,
+    "forecasted_volume": 70618.93657858753,
+    "impact_projection": 9132.936578587527,
+    "trend_direction": "rising",
+    "sentiment_score": 1.0,
+    "data_points": 8
+  },
+  {
+    "country": "USA",
+    "keyword": "politics",
+    "current_volume": 51486.0,
+    "forecasted_volume": 51807.997001530646,
+    "impact_projection": 160.99850076532312,
+    "trend_direction": "rising",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  },
+  {
+    "country": "USA",
+    "keyword": "technology",
+    "current_volume": 81486.0,
+    "forecasted_volume": 76408.91404882772,
+    "impact_projection": -2538.5429755861405,
+    "trend_direction": "falling",
+    "sentiment_score": 0.5,
+    "data_points": 8
+  }
+]
